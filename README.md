@@ -1,19 +1,14 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/9dafc4ac-9029-438a-9af1-3677f07c45a9" width="100" alt="SentinelAI Shield Banner"/>
   <h1>🛡️ SentinelAI Intrusion Detection System</h1>
-  <h3><i>AI-Powered Cyber Defense • Real-Time Threat Monitoring • Deep Packet Inspection</i></h3>
+  <h3><i>🧩 AI-Powered Cyber Defense • Real-Time Threat Monitoring • Deep Packet Inspection</i></h3>
 </div>
 
-<div align="center"> <img src="https://img.shields.io/badge/React-AB47FF?style=for-the-badge&logo=react&logoColor=ffffff&labelColor=1a0033" /> <img src="https://img.shields.io/badge/TypeScript-AB47FF?style=for-the-badge&logo=typescript&logoColor=ffffff&labelColor=1a0033" /> <img src="https://img.shields.io/badge/Vite-AB47FF?style=for-the-badge&logo=vite&logoColor=ffffff&labelColor=1a0033" /> <img src="https://img.shields.io/badge/Gemini_AI-AB47FF?style=for-the-badge&logo=google&logoColor=ffffff&labelColor=1a0033" /> <img src="https://img.shields.io/badge/Cybersecurity-IDS_System-AB47FF?style=for-the-badge&logo=protonvpn&logoColor=ffffff&labelColor=1a0033" />
- </div>
 
 
 
+<div align="center"> <img src="https://img.shields.io/badge/React-AB47FF?style=for-the-badge&logo=react&logoColor=white&labelColor=1a0033" /> <img src="https://img.shields.io/badge/TypeScript-AB47FF?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a0033" /> <img src="https://img.shields.io/badge/Vite-AB47FF?style=for-the-badge&logo=vite&logoColor=white&labelColor=1a0033" /> <img src="https://img.shields.io/badge/Gemini_AI-AB47FF?style=for-the-badge&logo=google&logoColor=white&labelColor=1a0033" /> <img src="https://img.shields.io/badge/Cybersecurity-IDS_System-AB47FF?style=for-the-badge&logo=shield&logoColor=white&labelColor=1a0033" /> </div>
 
-
-
-
----
 
 # 🖼️ Project Screenshots
 
@@ -21,23 +16,22 @@
 
 <table>
 <tr>
-<td align="center"><img src="https://github.com/user-attachments/assets/f91af303-84e1-4667-a1ff-96664f86174c" width="450"><br><b>Live Threat Dashboard</b></td>
+<td align="center"><img src="https://github.com/user-attachments/assets/9cc1cc01-779c-46f1-968c-afd2f753118f" width="450"><br><b>Live Threat Dashboard</b></td>
 <td align="center"><img src="https://github.com/user-attachments/assets/e889aa5a-930f-4330-8f65-2c2b88f6ba16" width="450"><br><b>System Metrics + Traffic Filters</b></td>
 </tr>
 <tr>
-<td align="center"><img src="https://github.com/user-attachments/assets/6cc59a31-4ad7-4f82-97ef-7d92d0940b30" width="450"><br><b>Packet Stream + Deep Inspector</b></td>
-<td align="center"><img src="https://github.com/user-attachments/assets/663b500f-eea4-4931-a28b-820a2d3140a4" width="450"><br><b>Cybersecurity Artwork</b></td>
+<td align="center"><img src="https://github.com/user-attachments/assets/6cc59a31-4ad7-4f82-97ef-7d92d0940b30" width="550"><br><b>Packet Stream + Deep Inspector</b></td>
+<td align="center"><img src="https://github.com/user-attachments/assets/663b500f-eea4-4931-a28b-820a2d3140a4" width="350"><br><b>Cybersecurity Artwork</b></td>
 </tr>
 </table>
 
 </div>
 
-## 🎯 Overview
- 
- ***AI-Powered Network Threat Monitoring | Real-Time Analytics | Deep Packet Inspection***
+---
 
-SentinelAI is a next-generation **Intrusion Detection System (IDS)** built with **React + TypeScript + Vite**.
-It simulates real-time network traffic, detects anomalies, performs AI-based threat analysis, visualizes attacks on a world map, inspects packets (HEX + ASCII), filters traffic, and exports logs — all in a modern SOC-style UI.
+# 🌐 Overview
+
+SentinelAI is a next-gen AI-powered Intrusion Detection System (IDS) designed with a modern SOC dashboard aesthetic. It simulates real-time network traffic, detects anomalies, analyzes packets with AI, visualizes attacks globally, supports deep packet inspection, provides smart filtering, and exports logs — all in a fast, beautiful interface built with React + TypeScript + Vite.
 
 # 🌟 Features Overview (Complete List)
 
@@ -74,7 +68,8 @@ This README includes **EVERY feature** of SentinelAI:
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-IDS-ff0033?style=for-the-badge\&logo=protonvpn)
 ![Recharts](https://img.shields.io/badge/Recharts-Visualization-orange?style=for-the-badge)
 
----
+</div>
+
 
 ## 🔥 1. Real-Time Net Threat Level
 
@@ -309,10 +304,6 @@ npm run dev
 
 ---
 
-
-
-
-
 # 📞 Contact
 
 <div align="left">
@@ -335,8 +326,11 @@ npm run dev
 
 </div>
 
+---
 
 # 📜 License
 
 SentinelAI is released under the MIT License.  
 You may use, modify, distribute, and improve this project for personal, educational, and cybersecurity research purposes.
+
+---
